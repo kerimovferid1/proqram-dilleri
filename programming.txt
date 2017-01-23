@@ -1,0 +1,9 @@
+ Aþaðý s?viy?li dill?r daha çox avadanlýq t?minatý il? ?laq?dardýr y?ni insanýn ç?tin baþa düþ?c?yi formada olur. Aþaðý s?viyy?li dill?rin 2 katiqoriyasý  var.  Bunlar maþýn dill?ri ? assemnly dill?ridir.
+Maþýn dilli v? maþýn kodu bunlar birbaþa komputerin avadanlýq t?minantýnýn baþa düþ?c?yi formada yazýlýr.Bütün kod 1 v? 0 lardan ibar?t olur. Bu effektivliyi ondan ibar?tdir ki, birbaþa t?sir edir. Teximini bele görsenir 10110100010101010101001010
+Göründüyü kimi insan t?r?find?n ç?tin anlaþýlýr 
+Assembly- maþýn dilini asan etm?k v? oxunan  etm?k üçün assembly dili yarandý. Burda artýq simvol v? ?rfl?r yýðýndan ibar?t idi.Bir çox proqramçýlar bu dilld?n dem?k olar ki, istifad? etmirl?r.Bunu ?m?liyyat sisteml?rind?  istifad? olunur.burada MOVE, ADD,SUB v? END terml?rid?n istifadý olunur.
+Cobol- biznes yönümlü dill?rd?ndir v? 1959cu illd? yaranýb.  ABÞ-daký kompüter istehsalçýlarý t?r?find?n dövl?t sektorunda iþl?y?n bir qrup t?r?find?r yaradýlmýþdý. Kobol dili h?l? d? ABÞ-da b?zi proramistl?r t?r?find?n istifad? edilm?kd?di. Kobol dilinin strukturu ingilis dilin? çox yaxýndý.
+C-1969 ild? yaranýb v? UNÝX ?m?liyyat sistemind? iþl?m?k üçün yarandý. Hal hazýrda C dili en meþurdu.Hetta  mysql C/C++ dilill?rind? yazýlýb.  Yüks?k s?viyy?li proqramlaþdýrma dill?riný aiddir.Bu dilin yaranmasý proqramlaþdýrmada yeni era oldu.
+C#-Bu dild? C esasýnda ye?ni C ail?sind?ndir. bu dil obyekt yönümlü proqram dill?rind?ndi.Brada yeni konseptl?r encapsulation, inheritance, and polymorphism  var. Bu dild? yazýlan kodalr C++ v? java dill?rinin sintaksisin? oxþardýr. 
+Ruby- bu dil insan  dilin? yaxýndý.bu dili asan öyrenilir v? geniþ kitabxanaya,web sehife yaratmaq üçün istifad? olunur.Burada h?r þey obyektdir. Burada klasslardan ?lav? modullar var.
+ 
